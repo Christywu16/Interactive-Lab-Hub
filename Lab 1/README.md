@@ -59,7 +59,7 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 To stage an interaction with your interactive device, think about:
 
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
+Setting: Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
 
 _Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
 
@@ -67,27 +67,50 @@ _Activity:_ What is happening between the actors?
 
 _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
 
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
+The interactive device can be anything *except* a computer, a tablet computer or a smartphone, but the main way it interacts needs to be using light.
+
+Happy: happy background music ; orange
+Sad: pathetique; blue
+Scared and Sad: sad horror music; dark blue
+
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
+IDEA 1
+Setting: This interaction happens on the phone, ideally at home(it plays music) 
 
-Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
+Players: Owner of the phone;  anyone who wants an expression of his current mood/feelings through a visual and auditory output with the use of a smart lighting system and speaker for ambience. 
+
+Activity: The player tells an emotion they are feeling to the website, and it displays a color  and plays music/video corresponding to the mood. 
+
+Goals: the website will play the music and display the color that resonates with the user’s mood/emotion, to amplify the user’s current emotion based on his input commands.
+
+
 
 \*\***Include pictures of your storyboards here**\*\*
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
+Storyboards: https://github.com/984580403hyxhj/Interactive-Lab-Hub/blob/Fall2022/Lab%201/Lab1_2.pdf
+
 \*\***Summarize feedback you got here.**\*\*
+The interaction is very easy to learn, and the response is obvious and effective.
+Certain colors can evoke a certain emotion, but if we are using a screen, why not put a video in it.
+
 
 
 ## Part B. Act out the Interaction
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
+
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+Music and color does create an atmosphere better than we planned.
+The interaction is very simple, it is easier to understand than what we expected.
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
-
+We can create a mapping with the color and the music, so there would be less delay between the color and the music.
+We can also make the color dynamic, make it feel breathing.
+We need to filter the music played in our interface(bad words, ethnicity, and etc), to improve the the user experience
 
 ## Part C. Prototype the device
 
@@ -97,7 +120,7 @@ Code for the "Tinkerbelle" tool, and instructions for setting up the server and 
 
 We invented this tool for this lab! 
 
-If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
+If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
@@ -107,9 +130,22 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
+https://youtu.be/TBB9mqJjV80
+
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
+We came up with a mapping of colors and emotions, and also found music. Our prototype is on our phone, but if we can move this interaction to another platform we can improve the effect. We decided to use an IPAD with speakers.
+
+List:
+Happy: happy background music ; orange
+Sad: pathetique; blue
+Scared: sad horror music; black
+Social: Buena Vista Social Club; pink
+Exciting: Mood; yellow
+Angry: req45, Red
+Chill: bach, Green
+
 
 
 ## Part E. Costume the device
@@ -120,12 +156,19 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Include sketches of what your devices might look like here.**\*\*
 
-\*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
+\*\***What concerns or opportunities are influencing the way you've designed the device to look?**\*\*
+In nature, we want to use this device to amplify the user’s emotion, and designing it to look a certain way will definitely help to amplify certain emotions. We are concerned that it will reduce the experience of other emotions(having a cute animal design probably doesn’t go with sadness).
+Neutral: It is similar to Amazon Alexa, it is a little intrusive, making the user aware of the existence of the device.
+Animal: it is supposed to look like a cute animal, the most intrusive design
+Lamp: it is the least intrusive design, so that the user won’t even notice the existence of it.
+TV: it can be done on TV, it is very neutral, and we can even add pictures or videos in it, instead of plainly pictures. The concern is the TV cannot be used while using this function. 
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+
+https://youtu.be/TBB9mqJjV80
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
@@ -151,3 +194,4 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
