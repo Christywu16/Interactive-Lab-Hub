@@ -1,3 +1,5 @@
+Collaborate with Jane Wang 
+
 # Interactive Prototyping: The Clock of Pi
 
 Does it feel like time is moving strangely during this semester?
@@ -185,6 +187,7 @@ Does time have to be linear?  How do you measure a year? [In daylights? In midni
 Can you make time interactive? You can look in `screen_test.py` for examples for how to use the buttons.
 
 Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www.billverplank.com/IxDSketchBook.pdf)!
+[Scanned Documents 4.pdf](https://github.com/Christywu16/Interactive-Lab-Hub/files/9553398/Scanned.Documents.4.pdf)
 
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
@@ -207,8 +210,15 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 \*\*\***Take a video of your PiClock.**\*\*\*
 
+IMG_4361.MOV
+
+https://user-images.githubusercontent.com/71368796/189804807-a4e01abb-8731-4009-9059-ae209670921d.mov
+
+
+
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
+[Scanned Documents 4.pdf](https://github.com/Christywu16/Interactive-Lab-Hub/files/9553388/Scanned.Documents.4.pdf)
 
 
 # Prep for Part 2
