@@ -221,6 +221,9 @@ https://user-images.githubusercontent.com/71368796/189804807-a4e01abb-8731-4009-
 [Scanned Documents 4.pdf](https://github.com/Christywu16/Interactive-Lab-Hub/files/9553388/Scanned.Documents.4.pdf)
 
 
+<img width="581" alt="Screen Shot 2022-09-13 at 3 32 48 PM" src="https://user-images.githubusercontent.com/71368796/189993096-ade6c2a4-0c20-45bc-bd95-4d244a87b334.png">
+
+
 # Prep for Part 2
 
 1. Pick up remaining parts for kit on Thursday lab class. Check the updated [parts list inventory](partslist.md) and let the TA know if there is any part missing.
