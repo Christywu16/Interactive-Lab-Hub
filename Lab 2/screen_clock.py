@@ -1,3 +1,4 @@
+import datetime
 import time
 import subprocess
 import digitalio
@@ -34,6 +35,7 @@ disp = st7789.ST7789(
 height = disp.width  # we swap height/width to rotate it to landscape!
 width = disp.height
 image = Image.new("RGB", (width, height))
+# image = "drink-some-water-cartoon.webp"
 rotation = 90
 
 # Get drawing object to draw on image.
@@ -48,12 +50,15 @@ padding = -2
 top = padding
 bottom = height - padding
 # Move left to right keeping track of the current x position for drawing shapes.
-x = 0
+x = 100
+x1 = 100
+# x2 = 100
 
 # Alternatively load a TTF font.  Make sure the .ttf font file is in the
 # same directory as the python script!
 # Some other nice fonts to try: http://www.dafont.com/bitmap.php
 font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 18)
+font1 = ImageFont.truetype("Roboto-Light.ttf", 45)
 
 # Turn on the backlight
 backlight = digitalio.DigitalInOut(board.D22)
@@ -65,7 +70,71 @@ while True:
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
+	
+    y1=0
+    #TODO: fill in here. You should be able to look in cli_clock.py and stats.py
 
+    
+
+    draw.text((x1,y1), time.strftime("%a %d" ), font=font, fill="#F4E38E")
+    # draw.text((x2,y2), time.strftime("%H:%M"), font=font, fill="#FFFFF0")
+    current_time = time.strftime("%H:%M")
+    y = top + 30
+    draw.text((x,y), current_time, font=font1, fill="#FFFFFF")
+    y += font.getsize(current_time)[1]
     # Display image.
     disp.image(image, rotation)
     time.sleep(1)
+
+
+    now = datetime.datetime.now()
+
+    if now.hour >= 8 and now.hour<=9:
+        image = Image.open("1.png")
+        backlight = digitalio.DigitalInOut(board.D22)
+        backlight.switch_to_output()
+        backlight.value = True
+
+
+        # Scale the image to the smaller screen dimension
+        image_ratio = image.width / image.height
+        screen_ratio = width / height
+        if screen_ratio < image_ratio:
+            scaled_width = image.width * height // image.height
+            scaled_height = height
+        else:
+            scaled_width = width
+            scaled_height = image.height * width // image.width
+        image = image.resize((scaled_width, scaled_height), Image.BICUBIC)
+
+        # Crop and center the image
+        x = scaled_width // 2 - width // 2
+        y = scaled_height // 2 - height // 2
+        image = image.crop((x, y, x + width, y + height))
+        disp.image(image, rotation)
+        time.sleep(1)
+    
+    elif now.hour >= 9:
+        image = Image.open("2.png")
+        backlight = digitalio.DigitalInOut(board.D22)
+        backlight.switch_to_output()
+        backlight.value = True
+
+
+        # Scale the image to the smaller screen dimension
+        image_ratio = image.width / image.height
+        screen_ratio = width / height
+        if screen_ratio < image_ratio:
+            scaled_width = image.width * height // image.height
+            scaled_height = height
+        else:
+            scaled_width = width
+            scaled_height = image.height * width // image.width
+        image = image.resize((scaled_width, scaled_height), Image.BICUBIC)
+
+        # Crop and center the image
+        x = scaled_width // 2 - width // 2
+        y = scaled_height // 2 - height // 2
+        image = image.crop((x, y, x + width, y + height))
+        disp.image(image, rotation)
+        time.sleep(1)
