@@ -11,6 +11,8 @@ Part2: https://github.com/Christywu16/Interactive-Lab-Hub/blob/Fall2022/Lab%201/
 
 [Lab 2. Interactive Prototyping: The Clock of Pi](Lab%202/)
 
+Part1: https://github.com/Christywu16/Interactive-Lab-Hub/tree/Fall2022/Lab%202
+
 [Lab 3. Chatterboxes](Lab%203/)
 
 [Lab 4. Ph-UI!!!](Lab%204/)
