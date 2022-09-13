@@ -210,10 +210,7 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 \*\*\***Take a video of your PiClock.**\*\*\*
 
-IMG_4361.MOV
-
-https://user-images.githubusercontent.com/71368796/189804807-a4e01abb-8731-4009-9059-ae209670921d.mov
-
+https://youtu.be/96mKw8YWifU
 
 
 ## Part G. 
