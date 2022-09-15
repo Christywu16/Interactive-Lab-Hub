@@ -1,5 +1,3 @@
-Collaborate with Jane Wang 
-
 # Interactive Prototyping: The Clock of Pi
 
 Does it feel like time is moving strangely during this semester?
@@ -10,6 +8,8 @@ It is worth spending a little time thinking about how you mark time, and what wo
 
 **Please indicate anyone you collaborated with on this Lab here.**
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+
+** Collaborate with Jane Wang **
 
 ## Prep
 
@@ -227,6 +227,8 @@ https://youtu.be/96mKw8YWifU
   
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
+
+Feedback: I really like the water idea, and I think it is very practical and useful. Meanwhile, I think it would be better if you could expand a bit on the idea and use how full the cup is to indicate time instead of printing out time directly.
 
 # Lab 2 Part 2
 
