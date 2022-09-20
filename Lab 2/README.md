@@ -210,7 +210,7 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 \*\*\***Take a video of your PiClock.**\*\*\*
 
-https://youtu.be/96mKw8YWifU
+https://youtu.be/Fm0T-6Q2MkM
 
 
 ## Part G. 
@@ -235,6 +235,8 @@ Feedback: I really like the water idea, and I think it is very practical and use
 Pull Interactive Lab Hub updates to your repo.
 
 Modify the code from last week's lab to make a new visual interface for your new clock. You may [extend the Pi](Extending%20the%20Pi.md) by adding sensors or buttons, but this is not required.
+
+Video: https://youtu.be/Fm0T-6Q2MkM
 
 As always, make sure you document contributions and ideas from others explicitly in your writeup.
 
