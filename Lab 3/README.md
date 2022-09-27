@@ -1,5 +1,6 @@
 # Chatterboxes
 **Jane Wang, Sylvia Ding, Christy Wu**
+https://github.com/Sylv1011/Interactive-Lab-Hub/blob/2f8c025ff7a85982e50dde950cb06bba605f6a9c/Lab%203/README.md
 [![Watch the video](https://user-images.githubusercontent.com/1128669/135009222-111fe522-e6ba-46ad-b6dc-d1633d21129c.png)](https://www.youtube.com/embed/Q8FWzLMobx0?start=19)
 
 In this lab, we want you to design interaction with a speech-enabled device--something that listens and talks to you. This device can do anything *but* control lights (since we already did that in Lab 1).  First, we want you first to storyboard what you imagine the conversational interaction to be like. Then, you will use wizarding techniques to elicit examples of what people might say, ask, or respond.  We then want you to use the examples collected from at least two other people to inform the redesign of the device.
