@@ -1,5 +1,5 @@
 # Chatterboxes
-**NAMES OF COLLABORATORS HERE**
+**Jane Wang, Sylvia Ding, Christy Wu**
 [![Watch the video](https://user-images.githubusercontent.com/1128669/135009222-111fe522-e6ba-46ad-b6dc-d1633d21129c.png)](https://www.youtube.com/embed/Q8FWzLMobx0?start=19)
 
 In this lab, we want you to design interaction with a speech-enabled device--something that listens and talks to you. This device can do anything *but* control lights (since we already did that in Lab 1).  First, we want you first to storyboard what you imagine the conversational interaction to be like. Then, you will use wizarding techniques to elicit examples of what people might say, ask, or respond.  We then want you to use the examples collected from at least two other people to inform the redesign of the device.
@@ -105,13 +105,55 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 \*\***Post your storyboard and diagram here.**\*\*
 
+<picture>
+  <img alt="Storyboard 1" src="https://github.com/Sylv1011/Interactive-Lab-Hub/blob/Fall2022/Lab%203/Storyboard1.jpg">
+</picture>
+
+<picture>
+  <img alt="Storyboard 2" src="https://github.com/Sylv1011/Interactive-Lab-Hub/blob/Fall2022/Lab%203/Storyboard2.jpg">
+</picture>
+
+We developed 2 ideas initially, and after discussion with many people, the second idea is much more preferred. Therefore, I decided to keep the the second idea and expand on that. 
+
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
+For this part of the lab, I expanded on only 5 colors and created some logic flows. I used Voiceflow as my prototyping tool and added different utterances for each variable and response that we entered. Also we ideated for the case when the voice assistant did not catch the speaker's response. 
+
+<picture>
+  <img alt="VA1" src="https://github.com/Sylv1011/Interactive-Lab-Hub/blob/Fall2022/Lab%203/VA1.png">
+</picture>
+
+
+<picture>
+  <img alt="VA2" src="=https://github.com/Sylv1011/Interactive-Lab-Hub/blob/Fall2022/Lab%203/VA2.png">
+</picture>
+
+
+<picture>
+  <img alt="VA3" src="https://github.com/Sylv1011/Interactive-Lab-Hub/blob/Fall2022/Lab%203/VA3.png">
+</picture>
+
+
+<picture>
+  <img alt="VA4" src="https://github.com/Sylv1011/Interactive-Lab-Hub/blob/Fall2022/Lab%203/VA4.png">
+</picture>
+
 \*\***Please describe and document your process.**\*\*
+
+We want to design a tool to assist people with visual impairment to learn color. We have discussed several ways to provide feedback such as temperature and vibration to help people feel that color. After analyzing the pros and cons of different methods, we decided to use voice feedback with the description of each color to assist them. 
+
+We developed the script based on people's understanding and feelings of the color, e.x. feeling embarrassed makes people think of red, to inform users of the color they are thinking about. Then the assistant will ask users if they want to feel the color, and it'll direct the user to put their finger on the sensor to feel the color through a haptic sensor to convey various colors. 
+
 
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
+
+
+
+
+https://user-images.githubusercontent.com/38329866/192392188-fbaf7f44-8961-416c-beaa-28eeed61dd10.mov
+
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
 
