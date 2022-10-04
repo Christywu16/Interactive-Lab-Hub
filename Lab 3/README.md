@@ -224,3 +224,5 @@ We can add various style of intrepretations for the the same color and form a da
 
 
 To extend the interaction, we can make a remote controller with bluetooth adding to the system, which allow uses to interact with the assistant while they are exploring around.
+
+We are also interested in using computer vision to detect facial expressions of the speaker. In this instance the additional data (if available) can be used to augment the processing to see if our user understands or needs further clarification. It is possible that a user can endure a conversation, receive the information, and yet remain confused. Using CV is an additional dataset that we can possibly use to fulfill our intention as best we can.
