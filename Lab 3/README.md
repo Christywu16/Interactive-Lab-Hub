@@ -183,25 +183,44 @@ The system should:
 *Document how the system works*
 
 *Include videos or screencaptures of both the system and the controller.*
+![DeviceFlow](https://user-images.githubusercontent.com/71368796/193726859-8fcf5a6b-c322-4474-b1c0-ec334c8c0397.png)
+
+![colorScheme](https://user-images.githubusercontent.com/71368796/193726846-e04d02ae-c641-4aae-96e3-c66267cdfa92.jpg)
+
+
+![PurpleLight](https://user-images.githubusercontent.com/71368796/193726792-c7bdd719-e1dd-4704-89bb-a84b16a653d6.jpeg)
+
+
+
+https://user-images.githubusercontent.com/71368796/193726801-1d219555-9451-4126-bab2-85953a396325.mp4
+
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
 
+https://user-images.githubusercontent.com/71368796/193724794-14d9f5bb-3062-4744-a3c1-40de9f62343f.mp4
+
+
+https://user-images.githubusercontent.com/71368796/193724803-7e51a943-bd13-4546-a277-27c42a316ade.mp4
+
+
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
+
+Initially we had designed a haptic system to aid the user to understand. Due to lack of hardware we transitioned to implementing a temperature sensor. The connection between temperature and colour is possibly rather weak. We implemented the intent to the best of our ability, and are happy with the result. In the end we still hope and intend to use the temperature feature as an addition to the original haptic design. The speech-to-text and text-to-speech portions of this device worked well, especially augmented by the cloud abilities of the Google cloud API. This engine for TTS and STT proved much more robust and faster than that of the on-board engines we originally demoed in part one (Vosk… etc.)
 
 ### What worked well about the controller and what didn't?
 
-\*\**your answer here*\*\*
+We were able to catch utterances in most of the cases and counted in no-match situations. However, sometimes when the intent of the voice assistant has long phrases, users tend to speak when the assistant has not finished its sentence. Also, in our design, we want to include secondary users (friends/families of the blind user), so we added LED light blub. But we did face the question from testing sessions that asked us when a device designed for blind people has a visual color code.
+
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
+We can add various style of intrepretations for the the same color and form a dataset accordingly. For exmaple, we can collect one version for feelings relating to each color, one version for the senarios, and another one of a quote from poetry. 
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
 
+To extend the interaction, we can make a remote controller with bluetooth adding to the system, which allow uses to interact with the assistant while they are exploring around.
