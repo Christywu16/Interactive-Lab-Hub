@@ -198,6 +198,8 @@ https://user-images.githubusercontent.com/71368796/193726801-1d219555-9451-4126-
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
 
+Chrsity Wu & Jane Wang: Utilized the given Speech2Text and Text2Speech files to achieve the designed voice flow as initial approach to build the virtual assistant, tested the code, and discussed the ideas that could be researched further.
+
 https://user-images.githubusercontent.com/71368796/193724794-14d9f5bb-3062-4744-a3c1-40de9f62343f.mp4
 
 
