@@ -15,6 +15,8 @@ https://github.com/Christywu16/Interactive-Lab-Hub/blob/2e8b3e55c8cdec253ff4d9fb
 
 [Lab 3. Chatterboxes](Lab%203/)
 
+https://github.com/Christywu16/Interactive-Lab-Hub/blob/Fall2022/Lab%203/README.md
+
 [Lab 4. Ph-UI!!!](Lab%204/)
 
 [Lab 5. Observant Systems](Lab%205/)
