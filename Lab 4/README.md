@@ -178,6 +178,19 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
 
+***
+Idea 1: posture on chairs to remind for sitting posture, cultivate habit for healthy spines by keep sitting traight!
+
+Idea 2: Get the right angle to draw everything!
+
+Idea 3: Play music when stepping into the shower.
+
+Idea 4: 
+
+Idea 5:
+
+***
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
