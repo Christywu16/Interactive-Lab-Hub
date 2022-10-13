@@ -19,6 +19,8 @@ https://github.com/Christywu16/Interactive-Lab-Hub/blob/Fall2022/Lab%203/README.
 
 [Lab 4. Ph-UI!!!](Lab%204/)
 
+Lab4i: https://github.com/Christywu16/Interactive-Lab-Hub/blob/Fall2022/Lab%204/README.md
+
 [Lab 5. Observant Systems](Lab%205/)
 
 [Lab 6. Little Interactions Everywhere](Lab%206/)
