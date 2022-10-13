@@ -181,13 +181,19 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 ***
 Idea 1: posture on chairs to remind for sitting posture, cultivate habit for healthy spines by keep sitting traight!
 
+![IMG_1B2D79A80DAA-1](https://user-images.githubusercontent.com/71368796/195479150-2b77f0ac-b591-4268-bc50-2f26c46809cb.jpeg)
+
+
 Idea 2: Get the right angle to draw everything!
+
+![IMG_BD76BAFCED18-1](https://user-images.githubusercontent.com/71368796/195481171-1dcb9e93-fb89-478c-93c7-0be94ac1064a.jpeg)
+
 
 Idea 3: Play music when stepping into the shower.
 
-Idea 4: 
+Idea 4: Send reminder to the parents when their children are apart from them in a certain distance to avoid losing their children in public space.
 
-Idea 5:
+Idea 5: Detect the skin color to find the matching foundation color
 
 ***
 
@@ -245,7 +251,18 @@ Think about how you want to present the information about what your sensor is se
 Build a cardbord prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
+![image](https://user-images.githubusercontent.com/71368796/195477292-7753cbd2-209b-4202-a893-07dbda4922cb.png)
 
+We integrated the distance detector and the speaker in the front of the device, so that it could detect its distance to the user and play the audio when user is not sitting straight/ leaning forward too much.
+
+![image](https://user-images.githubusercontent.com/71368796/195477325-7ba7248e-e2a5-4978-a975-53949e91ad0f.png)
+
+We made a volume control switch on the top of the box so that users could adjust the volume of the audio warning.
+
+![image](https://user-images.githubusercontent.com/71368796/195477369-2309c96a-70f8-489e-8d07-ea9b143a476f.png)
+
+
+We used the band to tie the device on the chair, and we think the device could be equipped as a neck pillow so that it could remind users of their sitting posture while making them comfortable. We think that the device could be incorporated into a real neck pillow tied on the chair's back.
 
 LAB PART 2
 
