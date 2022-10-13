@@ -1,7 +1,8 @@
 # Ph-UI!!!
 
 **NAMES OF COLLABORATORS HERE**
-
+Jane Wang
+Christy Wu
 
 For lab this week, we focus on both on sensing, to bring in new modes of input into your devices, as well as prototyping the physical look and feel of the device. You will think about the physical form the device needs to perform the sensing as well as present the display or feedback about what was sensed. 
 
@@ -191,9 +192,18 @@ Idea 2: Get the right angle to draw everything!
 
 Idea 3: Play music when stepping into the shower.
 
+![IMG_FAD93CFCDAE6-1](https://user-images.githubusercontent.com/71368796/195483874-91038473-ff3b-4d0e-9263-7517a1d3f65a.jpeg)
+
+
 Idea 4: Send reminder to the parents when their children are apart from them in a certain distance to avoid losing their children in public space.
 
+![IMG_0528](https://user-images.githubusercontent.com/71368796/195484609-795d3d71-795d-4eaf-8c3e-62e87613197e.jpg)
+
+
 Idea 5: Detect the skin color to find the matching foundation color
+
+![IMG_A4D2CBEE66C0-1](https://user-images.githubusercontent.com/71368796/195485612-6c9d0e18-2b57-43b4-baca-7d608e767cbf.jpeg)
+
 
 ***
 
