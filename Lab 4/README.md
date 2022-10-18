@@ -350,6 +350,8 @@ We encourage you to try using these controls, **while** paying particular attent
 ### Part F
 ### Record
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eTJ3ovp_zRo/0.jpg)](https://www.youtube.com/watch?v=eTJ3ovp_zRo)
+
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
 
