@@ -348,6 +348,11 @@ You can then call whichever control you like rather than setting a fixed value f
 We encourage you to try using these controls, **while** paying particular attention to how the interaction changes depending on the position of the controls. For example, if you have your servo rotating a screen (or a piece of cardboard) from one position to another, what changes about the interaction if the control is on the same side of the screen, or the opposite side of the screen? Trying and retrying different configurations generally helps reveal what a design choice changes about the interaction -- _make sure to document what you tried_!
 
 ### Part F
+
+### User Testing
+
+Participants are pretty satisfied with the interaction. The only thing is that they wanted more feature into this product. So we added a feature of prolonged sitting reminder - if user sit on the chair for a continuely long time, it will play the alarm to remind user to stnd uo and take a break.  
+
 ### Record
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eTJ3ovp_zRo/0.jpg)](https://www.youtube.com/watch?v=eTJ3ovp_zRo)
@@ -361,6 +366,13 @@ Ideally, the prototype should be small while it can be uncomfortable to have a b
 
 And finally it should be easy to adjust the height of where it attached to the chair to adopt different user's height.
 
-* "Works like": shows what the device can do
-* "Acts like": shows how a person would interact with the device
+![image](https://user-images.githubusercontent.com/71368796/196324611-69822e2f-b165-4ed1-b057-72ec455e835d.png)
+
+![image](https://user-images.githubusercontent.com/71368796/196324883-503799e6-259f-405c-8a7c-727e87699dd0.png)
+
+
+* "Works like" & "Acts like"
+
+https://user-images.githubusercontent.com/71368796/196324660-07bf8a26-0e82-488a-a734-2c73919b5f92.mp4
+
 
