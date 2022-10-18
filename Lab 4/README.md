@@ -326,6 +326,13 @@ We encourage you to try using these controls, **while** paying particular attent
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
+
+The height of the sensor when it is attached to the chair should be around neck area so that if the person is not sitting straight, the distance between their neck and the chair will increase.
+
+Ideally, the prototype should be small while it can be uncomfortable to have a big box behind user's back. 
+
+And finally it should be easy to adjust the height of where it attached to the chair to adopt different user's height.
+
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
 
