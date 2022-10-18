@@ -209,8 +209,14 @@ Idea 5: Detect the skin color to find the matching foundation color
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+For both the second and the fifth idea, we need to attach a button in order to save the “current infomration”, either it’s a color or an angle. And if the button be clicked again, the infomration should be cleared.
+
+For the fourth idea, our distance sensor lost sense in a pretty small distance when testing (it won’t detect anything beyond 6inch). While in reality a kid would be fine to walk around with parents within a larger scale of distance, so this idea need to develop a way to solve this problem.
+
 **\*\*\*Pick one of these designs to prototype.\*\*\***
 
+We will go forward with the first idea.
+![IMG_0531](https://user-images.githubusercontent.com/71368796/196311290-b78d29b7-5750-4fb9-85ef-35b7143869dc.jpg)
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
@@ -252,18 +258,38 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
+Adding slider button to adjust sound
+
+![IMG_F5FD379AEABB-1](https://user-images.githubusercontent.com/71368796/196311926-0600ed34-ada9-4e09-a41d-13de66b99dd8.jpeg)
+
+Adding screen to display distance
+
+![IMG_D1213E57F51C-1](https://user-images.githubusercontent.com/71368796/196312104-9fae3403-4dcc-4df1-b8d2-f6acb31e090a.jpeg)
+
+Adding a separate screen to display distance
+
+![IMG_DCA3DD777F56-1](https://user-images.githubusercontent.com/71368796/196312278-ab8f0ae4-6bc9-4b24-a087-062135e5cef6.jpeg)
+
+Adding speaker to play the alarm
+
+![IMG_E8F70CB9C9EC-1](https://user-images.githubusercontent.com/71368796/196312382-6e176c06-f2d3-47f0-aa66-6a1283e657c1.jpeg)
+
+Adding button to start/quit
+
+![IMG_D1E2E4C4DE05-1](https://user-images.githubusercontent.com/71368796/196312687-8c485dd6-15be-4b03-94c8-26c9643bb9b6.jpeg)
+
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
-For both the second and the fifth idea, we need to attach a button in order to save the “current infomration”, either it’s a color or an angle. And if the button be clicked again, the infomration should be cleared. 
+We chose to go with sound notification instead of display visually. When using this interation, users are either using computer or doing work, so it's difficult and distracting for them to keep an eye on another screen to track the status for sitting posture. While using sounds, user can ignore the product if they are sitting straight, and notify them if their siting posture goes wrong. 
 
-For the fourth idea, our distance sensor lost sense in a pretty small distance when testing (it won’t detect anything beyond 6inch). While in reality a kid would be fine to walk around with parents within a larger scale of distance, so this idea need to develop a way to solve this problem. 
+We also wanted to use a slider to allow users to adjust volumn of the alarm.
 
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
-We will go forward with the first idea.
+![IMG_0532](https://user-images.githubusercontent.com/71368796/196311321-946140f7-6b1f-4b27-b693-8ebf41a16653.jpg)
 
-![IMG_0531](https://user-images.githubusercontent.com/71368796/196309986-dfd6aeb3-377f-40d4-ab6d-cecbe0285f0d.jpg)
 
 
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
