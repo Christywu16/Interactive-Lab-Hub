@@ -254,9 +254,21 @@ Think about how you want to present the information about what your sensor is se
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+For both the second and the fifth idea, we need to attach a button in order to save the “current infomration”, either it’s a color or an angle. And if the button be clicked again, the infomration should be cleared. 
+
+For the fourth idea, our distance sensor lost sense in a pretty small distance when testing (it won’t detect anything beyond 6inch). While in reality a kid would be fine to walk around with parents within a larger scale of distance, so this idea need to develop a way to solve this problem. 
+
+
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
+We will go forward with the first idea.
+
+![IMG_0531](https://user-images.githubusercontent.com/71368796/196309986-dfd6aeb3-377f-40d4-ab6d-cecbe0285f0d.jpg)
+
+
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+
+The height of the sensor when it is attached to the chair should be around neck area so that if the person is not sitting straight, the distance between their neck and the chair will increase. 
 
 Build a cardbord prototype of your design.
 
