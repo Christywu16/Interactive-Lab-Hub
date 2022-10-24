@@ -106,15 +106,26 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 contours-detection
 <img width="877" alt="Screen Shot 2022-10-24 at 4 20 18 PM" src="https://user-images.githubusercontent.com/71368796/197622344-274c2de8-aa90-4bbc-a9cc-144297a05299.png">
 
+Design:
+We can embed this into Zoom meeting to allow users send emoji without typing it out. For exmaple, if user shows a thumb in front of the camera, it could detect the contour of the thumb and match it with the emoji accordingly and shows it in the meeting. 
+
 face-detection
 <img width="866" alt="Screen Shot 2022-10-24 at 4 21 45 PM" src="https://user-images.githubusercontent.com/71368796/197622426-79d683ae-9526-494e-96cc-ca48f9fa1840.png">
+
+Design:
+We can attach this onto door safety system to see if there is sketchy people wondering around outside of the house. And it could notify the house owner if it found something suspicious. 
 
 flow-detection
 <img width="840" alt="Screen Shot 2022-10-24 at 4 23 33 PM" src="https://user-images.githubusercontent.com/71368796/197622478-7dc9608c-cb91-4572-9320-cdb23c2cc7f2.png">
 
+Design:
+We can use this feature to detect the tram movement and thus make it easier for us to manage time. For example, we can put it in front of our windows ad is the tram moving from left to right, it knows the tram is coming to Roosevelt island from Manhatten; and if the tram is moving from right to left, then it knows the tram is leaving to Manhatten from Roosevelt island. 
+
 object-detection
 <img width="838" alt="Screen Shot 2022-10-24 at 4 25 40 PM" src="https://user-images.githubusercontent.com/71368796/197622527-f4c6be53-a18d-42c8-a257-8bbb5886130c.png">
 
+Design:
+We can use the object detection to see how many cars are on the street to evaluate the traffic condition.
 
 
 #### MediaPipe
