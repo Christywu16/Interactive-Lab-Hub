@@ -275,6 +275,9 @@ We wanted to embed contours detection feature into Zoom meeting. By doing this, 
 
 For exmaple, if user shows a up thumb in front of the camera, it could detect the contour of the thumb and match it with the emoji accordingly. Then iit will automatically shows the emoji in the Zoom meeting. 
 
+<img width="1042" alt="Screen Shot 2022-10-24 at 6 26 11 PM" src="https://user-images.githubusercontent.com/71368796/197642386-feaa84ac-3706-4b4e-abb1-be0e424b8083.png">
+
+
 
 ### Part C
 ### Test the interaction prototype
