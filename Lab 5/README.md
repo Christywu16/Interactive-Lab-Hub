@@ -1,7 +1,8 @@
 # Observant Systems
 
 **NAMES OF COLLABORATORS HERE**
-
+Christy Wu
+Jane Wang
 
 For lab this week, we focus on creating interactive systems that can detect and respond to events or stimuli in the environment of the Pi, like the Boat Detector we mentioned in lecture. 
 Your **observant device** could, for example, count items, find objects, recognize an event or continuously monitor a room.
@@ -101,6 +102,20 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 ```
 
 **\*\*\*Try each of the following four examples in the `openCV-examples`, include screenshots of your use and write about one design for each example that might work based on the individual benefits to each algorithm.\*\*\***
+
+contours-detection
+<img width="877" alt="Screen Shot 2022-10-24 at 4 20 18 PM" src="https://user-images.githubusercontent.com/71368796/197622344-274c2de8-aa90-4bbc-a9cc-144297a05299.png">
+
+face-detection
+<img width="866" alt="Screen Shot 2022-10-24 at 4 21 45 PM" src="https://user-images.githubusercontent.com/71368796/197622426-79d683ae-9526-494e-96cc-ca48f9fa1840.png">
+
+flow-detection
+<img width="840" alt="Screen Shot 2022-10-24 at 4 23 33 PM" src="https://user-images.githubusercontent.com/71368796/197622478-7dc9608c-cb91-4572-9320-cdb23c2cc7f2.png">
+
+object-detection
+<img width="838" alt="Screen Shot 2022-10-24 at 4 25 40 PM" src="https://user-images.githubusercontent.com/71368796/197622527-f4c6be53-a18d-42c8-a257-8bbb5886130c.png">
+
+
 
 #### MediaPipe
 
