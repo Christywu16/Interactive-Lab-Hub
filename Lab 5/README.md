@@ -317,12 +317,14 @@ Now that you have experimented with one or more of these sense-making systems **
 During the lecture, we mentioned questions to help characterize a material:
 * What can you use X for?
     Contour dection allows users to automatically send emoji in Zoom meeting through body postuure detection. 
-* What is a good environment for X?
-* What is a bad environment for X?
+* What is a good environment for X? 
+    The user's video has high quality, bright light, and clean background. 
+* What is a bad environment for X? 
+    The user's video has low quality, dim light, and messy background. 
 * When will X break? * When it breaks how will X break?
     When the user doesn't have enough color contrast to the background. 
 * What are other properties/behaviors of X?
-* How does X feel?
+    We can embed the pop-up window to ask for user's confirmation in the future. 
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
 
