@@ -269,21 +269,46 @@ This might take a while to get fully installed. After installation, connect your
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
 
+contours-detection
+
+We wanted to embed contours detection feature into Zoom meeting. By doing this, it allows users send emoji without typing it out. 
+
+For exmaple, if user shows a up thumb in front of the camera, it could detect the contour of the thumb and match it with the emoji accordingly. Then iit will automatically shows the emoji in the Zoom meeting. 
+
+
 ### Part C
 ### Test the interaction prototype
 
 Now flight test your interactive prototype and **note down your observations**:
 For example:
-1. When does it what it is supposed to do?
-1. When does it fail?
-1. When it fails, why does it fail?
-1. Based on the behavior you have seen, what other scenarios could cause problems?
+1. What it is supposed to do?
+
+It supposed to detect contour image of the user's hand or body posture, e.g. raising hand, thumbs up, thumbs down. Then it could match the contour image with the emoji and send the correct emoji out into Zoom meeting. 
+
+2. When does it fail? 3. When it fails, why does it fail?
+
+When the user is holding hands in front of their body, it is hard to differenciate between user's body and hand.
+
+When the user is raising hands besides of the body but the background color is messy, it is also hard to detect a clear contour of the body posture.
+
+4. Based on the behavior you have seen, what other scenarios could cause problems?
+It could detect emojis when the user is ot intending to express anything but accidentally have a body posture that creates a match.
 
 **\*\*\*Think about someone using the system. Describe how you think this will work.\*\*\***
 1. Are they aware of the uncertainties in the system?
-1. How bad would they be impacted by a miss classification?
-1. How could change your interactive system to address this?
-1. Are there optimizations you can try to do on your sense-making algorithm.
+    Yes. The video detection will make some mistakes while the contours it detected is not clear and confusing for the computer.
+2. How bad would they be impacted by a miss classification?
+    It will disrupt the meeting process and will require additional discussion to resolve the misunderstanding. 
+3. How could change your interactive system to address this?
+    We can add a pop-up window to ask the user to confirm the detected information is correct.
+    
+    "Are you trying to send 👍?"
+    "Yes"           "No"
+    
+4. Are there optimizations you can try to do on your sense-making algorithm.
+    It would be more accurate to adding the movement in addition of the contour detection. 
+    In this case it can track the user's movement is raising hand, and the detected contour is also matching with the emoji.
+    By doing this, both data could be used to confirm the detection is accurate. 
 
 ### Part D
 ### Characterize your own Observant system
@@ -291,10 +316,11 @@ For example:
 Now that you have experimented with one or more of these sense-making systems **characterize their behavior**.
 During the lecture, we mentioned questions to help characterize a material:
 * What can you use X for?
+    Contour dection allows users to automatically send emoji in Zoom meeting through body postuure detection. 
 * What is a good environment for X?
 * What is a bad environment for X?
-* When will X break?
-* When it breaks how will X break?
+* When will X break? * When it breaks how will X break?
+    When the user doesn't have enough color contrast to the background. 
 * What are other properties/behaviors of X?
 * How does X feel?
 
