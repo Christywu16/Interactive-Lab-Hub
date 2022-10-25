@@ -331,7 +331,7 @@ During the lecture, we mentioned questions to help characterize a material:
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
 
-https://youtu.be/80rmjx2-Z1Q
+https://youtu.be/egHhkvtsOhQ
 
 <img width="707" alt="Screen Shot 2022-10-24 at 6 21 30 PM" src="https://user-images.githubusercontent.com/71368796/197640888-69e0c434-69b5-451f-b979-b8fff1c5d429.png">
 
