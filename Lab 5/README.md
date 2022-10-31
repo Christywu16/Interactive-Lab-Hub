@@ -340,3 +340,13 @@ https://youtu.be/egHhkvtsOhQ
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
+
+Based on the user test, we found that sometime the interation could send message that the user didn't meant to send on purpose. 
+
+To address this problem, we added the feature of a pop-up window of "Are you trying to send [emoji]? Yes/No" to allow users to confirm if the detected emoji is accurate. If user click yes, it will send the emoji in the Zoom meeting, and it will disregard the information if the user click no. 
+
+
+https://youtu.be/araHqKRjK1Y
+
+<img width="1122" alt="image" src="https://user-images.githubusercontent.com/71368796/199110756-bd7f2f80-b395-4c20-958e-9904010a76fb.png">
+
