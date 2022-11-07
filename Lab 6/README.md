@@ -104,6 +104,8 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 
 4. Group Mood Board: Participants can post their moods into the channels with MQTT. As they start to try healthier lifestyle and diet, the hoster can post all responds anonymously at the end of each day. Participants can see how the group is doing and how the mood trend changes as time goes by.
 
+5. Anti-Theft Zipper: A zipper with a touch sensor could be implemented on the bag. When someone else is touching the bag, the bag owner would receive a reminder from the MQTT and be aware of any security issues.
+
 
 
 ### Part C
