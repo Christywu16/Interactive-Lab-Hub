@@ -96,6 +96,16 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 
 **\*\*\*Consider how you might use this messaging system on interactive devices, and draw/write down 5 ideas here.\*\*\***
 
+1. Lie to Me Game: Hoster can send a question to participant, and participant should send back their answer to the question. Camera and face detection are embeded to analyze the facial expression of participant and predicate if participant is lying. 
+
+2. Online Trivia: MQTT is using to transfer messages. It sends Trivia questions from the hoster and receives the answers from every participants' device. 
+
+3. HealthCare Managing System: Each nurse can report to the leader using MQTT with each patient's condition and treatment they took cared of. 
+
+4. Group Mood Board: Participants can post their moods into the channels with MQTT. As they start to try healthier lifestyle and diet, the hoster can post all responds anonymously at the end of each day. Participants can see how the group is doing and how the mood trend changes as time goes by.
+
+
+
 ### Part C
 ### Streaming a Sensor
 
