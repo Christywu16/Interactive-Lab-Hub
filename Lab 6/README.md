@@ -128,9 +128,14 @@ Plug in the capacitive sensor board with the Qwiic connector. Use the alligator 
  ```
 
 **\*\*\*Include a picture of your setup here: what did you see on MQTT Explorer?\*\*\***
+![IMG_6013](https://user-images.githubusercontent.com/46438303/200400811-99eb5326-5bb6-4f83-a0bf-b764302d4d9e.jpeg)
+<img width="320" alt="Screen Shot 2022-11-07 at 11 31 55 AM" src="https://user-images.githubusercontent.com/46438303/200401026-8f379914-d5b0-49f5-aaba-a6d94e2c17f8.png">
+<img width="643" alt="Screen Shot 2022-11-07 at 11 31 41 AM" src="https://user-images.githubusercontent.com/46438303/200401209-7856d3c3-770a-46f7-9dbf-8a90dd51ce7d.png">
+
 
 **\*\*\*Pick another part in your kit and try to implement the data streaming with it.\*\*\***
 
+![IMG_6022](https://user-images.githubusercontent.com/46438303/200401622-26beac4e-27ba-4f52-a46c-6bf9da45c717.jpeg)
 
 ### Part D
 ### The One True ColorNet
@@ -162,6 +167,10 @@ You may ask "but what if I missed class?" Am I not admitted into the collective 
 Of course not! You can go to [https://one-true-colornet.glitch.me/](https://one-true-colornet.glitch.me/) and become one with the ColorNet on the inter-webs. Glitch is a great tool for prototyping sites, interfaces and web-apps that's worth taking some time to get familiar with if you have a chance. Its not super pertinent for the class but good to know either way. 
 
 **\*\*\*Can you set up the script that can read the color anyone else publish and display it on your screen?\*\*\***
+![3DB3B3B1-B6B6-46A7-8EA1-8BC0FB595D4D_1_105_c](https://user-images.githubusercontent.com/46438303/200399896-70caf8e0-38cd-4a6c-a8fe-4ecf121fc3e0.jpeg)
+![EBE7A2B4-23DC-476A-9EB6-90CCFE65480D_1_105_c](https://user-images.githubusercontent.com/46438303/200399915-a83c05ba-ba0f-4ebd-b748-bc64c2d98621.jpeg)
+
+<img width="258" alt="Screen Shot 2022-11-07 at 12 55 03 AM" src="https://user-images.githubusercontent.com/46438303/200401769-e7fe5c19-df33-42dd-98e4-11715d3442fc.png">
 
 
 ### Part E
@@ -179,3 +188,5 @@ Find at least one class (more are okay) partner, and design a distributed applic
 
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
 
+
+**\*\*\*Include a picture of your setup here: what did you see on MQTT Explorer?\*\*\***
