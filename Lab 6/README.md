@@ -211,5 +211,8 @@ No. The user shouldn't tell the zipper is anti-theft or else the theft will brea
 
 **\*\*\*Include a picture of your setup here: what did you see on MQTT Explorer?\*\*\***
 
+![IMG_E98C2D11F49E-1](https://user-images.githubusercontent.com/71368796/200477985-656613f0-1c99-424e-9c02-0cb54d415bf5.jpeg)
+
+
 ![IMG_9941](https://user-images.githubusercontent.com/71368796/200447634-fdaaa2c2-2bfa-4063-92ff-35c5a4b38fdc.PNG)
 
