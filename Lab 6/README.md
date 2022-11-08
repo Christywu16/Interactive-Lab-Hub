@@ -197,9 +197,11 @@ Computation occur: when someone tries to open the user's bag, the sensor on the 
 
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
 
+Please see video.
+
+No. The user shouldn't tell the zipper is anti-theft or else the theft will break the zipper or try another way to steal. 
 
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
-
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QT9yOd82190/0.jpg)](https://youtube.com/shorts/QT9yOd82190)
