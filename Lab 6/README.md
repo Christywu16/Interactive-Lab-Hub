@@ -182,6 +182,9 @@ Find at least one class (more are okay) partner, and design a distributed applic
 
 Our interaction of anti-theft smart zipper provides an easy way for users to get notified when someone if trying to open their bag. 
 
+![IMG_C7093DCCE6C8-1](https://user-images.githubusercontent.com/71368796/200478850-729da1fe-3aa6-4c5e-9dbe-2d31ab970e6a.jpeg)
+
+
 **\*\*\*2. Diagram the architecture of the system.\*\*\*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
 
 Input: the data that touch sensor receives
@@ -210,6 +213,8 @@ No. The user shouldn't tell the zipper is anti-theft or else the theft will brea
 
 
 **\*\*\*Include a picture of your setup here: what did you see on MQTT Explorer?\*\*\***
+
+Alarm message. 
 
 ![IMG_E98C2D11F49E-1](https://user-images.githubusercontent.com/71368796/200477985-656613f0-1c99-424e-9c02-0cb54d415bf5.jpeg)
 
