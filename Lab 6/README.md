@@ -180,14 +180,34 @@ Find at least one class (more are okay) partner, and design a distributed applic
 
 **\*\*\*1. Explain your design\*\*\*** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
 
+Our interaction of anti-theft smart zipper provides an easy way for users to get notified when someone if trying to open their bag. 
+
 **\*\*\*2. Diagram the architecture of the system.\*\*\*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
+
+Input: the data that touch sensor receives
+
+Player/user: owner of the bag/belonging
+
+Output: Alarm message on user's mobile device 
+
+Trigger: anyone else touches the zipper
+
+Computation occur: when someone tries to open the user's bag, the sensor on the zipper receives data and tells program to generate alarm message then sender program trasfer the message to users' mobile device. 
+
 
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
 
+
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
 
+
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QT9yOd82190/0.jpg)](https://youtube.com/shorts/QT9yOd82190)
+
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
 
 
 **\*\*\*Include a picture of your setup here: what did you see on MQTT Explorer?\*\*\***
+
+![IMG_9941](https://user-images.githubusercontent.com/71368796/200447634-fdaaa2c2-2bfa-4063-92ff-35c5a4b38fdc.PNG)
+
