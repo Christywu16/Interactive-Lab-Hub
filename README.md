@@ -25,5 +25,5 @@ Lab4i: https://github.com/Christywu16/Interactive-Lab-Hub/blob/Fall2022/Lab%204/
 
 [Lab 6. Little Interactions Everywhere](Lab%206/)
 
-[Final Project](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Fall/FinalProject.md)<!--[](Final%20Project/)-->
+[Final Project](https://github.com/Christywu16/Interactive-Lab-Hub/tree/Fall2022/iddproject)
 
