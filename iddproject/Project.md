@@ -1,8 +1,15 @@
 Christy Wu, Jane Wang
 
-Google Doc: https://docs.google.com/document/d/1tY0dgCaez3t-gsv-lJSgg6SQf8FUCPhlGfKZ0m2dYyw/edit?usp=sharing
+Interaction video: https://youtu.be/cfKcqcfuPkg
+
+
+Project Plan: https://docs.google.com/document/d/1tY0dgCaez3t-gsv-lJSgg6SQf8FUCPhlGfKZ0m2dYyw/edit?usp=sharing
 
 Slides: https://docs.google.com/presentation/d/1il5nJV2FVKNd_7D5PSS36YFSi_BLxcFjOCkexU8aIdo/edit?usp=sharing
+
+Function Check-off: https://youtu.be/9GMC1wE6zsY
+
+Project Reflection: https://docs.google.com/document/d/194lsdhRObo3M87lPoVFc20oKGndOnBeBeQU28u12rzE/edit?usp=sharing
 
 
 Christmas Advent Calendar
@@ -34,3 +41,19 @@ The joystick may not give accurate results with the user's manipulation on the t
 
 Fall-back plan
 If the interaction has some unexpected difficulty or if the Joystick part function couldn’t run as we expected, we will simplify the device to only play the Christmas song once so that we will have the MVP product to allow raspberry pi read the date from users’ mark on the deadline. 
+
+Documentation: 
+
+Design process:
+In the beginning, we prioritized working on the playing of songs when the user touches the touch sensor. We had a function on play_song.py to assign each touch sensor point a different Christmas song. One challenge here was how to design the touch interaction and how to arrange the copper tape on the physical cardboard calendar. The initial idea was it will play the song when the user takes out of one of the boxes, while this is hard to achieve since the program will be based on while there is no data received on the touch sensor. Then we convert the copper tape to the jointer point between box and cardboard so that the user would touch the copper when they take out the box. However, when we ran the user test, we found that users took out the box in many different ways and they usually don’t touch the copper while taking the box. Finally, we decided to have the interaction with the user opening the box instead of taking out the box. In this way, we can connect the copper tape through the inside of the box with the back of the cardboard. And tape the copper tape on the back of the bottom clip on the box, so that the user will touch it when they open the box.  
+
+
+After we had this feature on our interaction for the MVP of the product, we then added a few other essential features. Since the usage scenario will be user waiting for the day of Christmas coming, we added the feature of fetching the date and playing how many dates there are left until Christmas. While users check calendars, it’s always useful to inform the user of the weather to help them make plans for the day. So, we did research on some different weather APIs. After investigating and comparing them, we decided to use OpenWeatherMap for our project. We used it to fetch the weather according to New York City’s longitude and latitude. Then we used the part we learned from the lab to show date, weather, and temperature on the raspberry pi screen. Afterwards, we added the joystick interaction to control the play of the song. 
+
+Reflections on process (What have you learned or wish you knew at the start?)
+
+
+
+
+Group work distribution 
+

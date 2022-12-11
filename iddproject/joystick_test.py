@@ -18,12 +18,16 @@ def runExample():
 	print("Initialized. Firmware Version: %s" % myJoystick.version)
 
 	while True:
+		if myJoystick.horizontal == 0:
+				print("stop")
+		elif myJoystick.vertical == 0:
+				print("play")
 
-		print("X: %d, Y: %d, Button: %d" % ( \
-					myJoystick.horizontal, \
-					myJoystick.vertical, \
-					myJoystick.button))
-
+		# print("X: %d, Y: %d, Button: %d" % ( \
+		# 			myJoystick.horizontal, \
+		# 			myJoystick.vertical, \
+		# 			myJoystick.button))
+		
 		time.sleep(.5)
 
 if __name__ == '__main__':
