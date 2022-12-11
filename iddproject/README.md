@@ -54,6 +54,8 @@ Reflections on process (What have you learned or wish you knew at the start?)
 
 
 
-
 Group work distribution 
+
+
+We worked together for ideation and planning process. For developing, Christy is responsible fore the weather fetching, pi screen, and assemble phisical interaction. Jane is responsible for speech to text, joystick interaction, combine and debug the code.  
 
