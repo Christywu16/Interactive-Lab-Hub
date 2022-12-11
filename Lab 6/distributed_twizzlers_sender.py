@@ -23,7 +23,7 @@ mpr121 = adafruit_mpr121.MPR121(i2c)
 while True:
     for i in range(12):
         if mpr121[i].value:
-        	val = f"Twizzler {i} touched!"
+        	val = "!!!Someone is touching your bag!!!"
         	print(val)
         	client.publish(topic, val)
     time.sleep(0.25)

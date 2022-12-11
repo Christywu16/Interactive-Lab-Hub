@@ -9,7 +9,7 @@ import time
 
 
 ## Please change the following number so that it matches to the microphone that you are using. 
-DEVICE_INDEX = 1
+DEVICE_INDEX = 2
 
 ## Compute the audio statistics every `UPDATE_INTERVAL` seconds.
 UPDATE_INTERVAL = 1.0
@@ -62,6 +62,12 @@ def main():
 
                 volume = np.rint(np.sqrt(np.mean(buffer**2))*10000) # Compute the rms volume
                 
+                if volume > 100:
+                    print("volume is greater than threshold 100")
+                    
+                else:
+                    print("volume is under threshold 100")
+                    
                 
                 VolumeHistory.append(volume)
                 volumneSlow = volume
